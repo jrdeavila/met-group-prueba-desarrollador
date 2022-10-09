@@ -1,0 +1,12 @@
+[submodule "met-group-ejercicios"]
+	path = met-group-ejercicios
+	url = git@github.com:jrdeavila/met-group-ejercicios.git
+[submodule "ejercicios1y2"]
+	path = ejercicios1y2
+	url = git@github.com:jrdeavila/met-group-ejercicios.git
+[submodule "ejercicio3/met-group-store-client"]
+	path = ejercicio3/met-group-store-client
+	url = git@github.com:jrdeavila/met-group-store-client.git
+[submodule "ejercicio3/met-group-store-server"]
+	path = ejercicio3/met-group-store-server
+	url = git@github.com:jrdeavila/met-group-store-server.git
